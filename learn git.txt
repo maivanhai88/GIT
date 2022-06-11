@@ -1,0 +1,12 @@
+
+1. tại vị trí chứa dữ liệu cần tải lên github -> chuột phải chọn "Git Bash Here"
+2. git init
+3. git add .
+4. git comit -m "learn GIT"
+5. git branch -M main
+6. git remote add origin https://github.com/maivanhai88/GIT.git
+7. git push -u origin main
+8. chọn "sign in with a code"
+9. Nhấn cancel vào bảng "git for windows"
+10. username for 'https://github.com' nhập là : maivanhai88
+11.password for 'https://maivanhai88@github.com': Phải chuột và paste Mã Token - enter (phần sau sẽ hướng dẫn lấy mã token) 
