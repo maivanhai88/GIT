@@ -23,4 +23,5 @@
 6. tick tất cả các mục
 7. generate token
 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
-
+---------Tải dữ liệu về --------------
+1. git clone https://github.com/maivanhai88/GIT.git
