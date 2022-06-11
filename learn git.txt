@@ -30,3 +30,9 @@ Chú ý : - Trước khi tải hoặc xóa file cần git clone https://github.c
 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
 ---------Tải dữ liệu về --------------
 1. git clone https://github.com/maivanhai88/GIT.git
+----------xóa thư mục --------
+1. click vào trong thư mục "GIT"
+2. chọn "setting"
+3. click "Delete this repository"  (nằm ở cuối trang)
+4. nhập maivanhai88/GIT (dòng chữ đen nằm ở trên)
+5. click vào " I understand the consequences, delete this repository"
