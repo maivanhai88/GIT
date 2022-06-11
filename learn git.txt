@@ -14,6 +14,11 @@
 1. git add.
 2. git commit -m "update"
 3. git push
+----------Xóa bớt file --------
+giống như "Tải thêm file"
+Chú ý : - Trước khi tải hoặc xóa file cần git clone https://github.com/maivanhai88/GIT.git
+        để đảm bảo dữ liệu được cập nhật đầy đủ trước khi "git push"
+        - Khi không git push được thì tạo lại mã token 
 -----------Tạo mã Token --------------
 1. Vào mục Setting
 2. Developer settings
